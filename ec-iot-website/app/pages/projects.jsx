@@ -8,7 +8,7 @@ const projects = [
     },
     {
         title: 'RFID Security system',
-        description: '1st years under the guidance of prof. Manodipan Sahoo working on RFID Security system.',
+        description: 'This project involves designing and building an RFID-based security system  to secure areas. The system uses RFID (Radio Frequency Identification) technology, where each authorized user is given a unique RFID tag or card',
         imageUrl: '/images/rfid.jpg',
     },
 ];
